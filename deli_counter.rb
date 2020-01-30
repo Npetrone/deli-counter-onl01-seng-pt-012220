@@ -33,8 +33,4 @@ def now_serving(katz_deli)
   else
     puts "Currently serving #{katz_deli.shift}."
 end
-=======
-  
-  
->>>>>>> 945cf892e21f7564963aca61b2e7331fef2f20d1
 end
