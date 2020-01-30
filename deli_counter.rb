@@ -23,7 +23,6 @@ end
 
 def take_a_number(katz_deli, name)
   katz_deli << name
-<<<<<<< HEAD
   puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
 end
 
@@ -33,8 +32,4 @@ def now_serving(katz_deli)
   else
     puts "Currently serving #{katz_deli.shift}."
 end
-=======
-  
-  
->>>>>>> 945cf892e21f7564963aca61b2e7331fef2f20d1
 end
